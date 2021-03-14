@@ -1,0 +1,24 @@
+{
+  "name": "artdmx-websocket-bridge",
+  "version": "1.0.0",
+  "description": "A simple service for bridging DMX control signals from physical or virtual lighting equipment to the web",
+  "main": "dmxbridge.js",
+  "dependencies": {
+    "dmxnet": "^0.7.0",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbaicoianu/artdmx-websocket-bridge.git"
+  },
+  "author": "James Baicoianu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbaicoianu/artdmx-websocket-bridge/issues"
+  },
+  "homepage": "https://github.com/jbaicoianu/artdmx-websocket-bridge#readme"
+}
