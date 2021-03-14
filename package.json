@@ -1,6 +1,6 @@
 {
   "name": "artdmx-websocket-bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple service for bridging DMX control signals from physical or virtual lighting equipment to the web",
   "main": "dmxbridge.js",
   "dependencies": {
